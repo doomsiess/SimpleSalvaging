@@ -1,0 +1,11 @@
+iron-tools: true #Enable iron tools recipes
+ironingots-tools: 1 #How many ingots for iron tools
+
+iron-armor: true #Enable iron armor recipes
+ironingots-armor: 2 #How many ingots for iron armor
+
+diamond-tools: true #Enable diamond tools recipes
+diamonds-tools: 1 #How many diamonds for tools
+
+diamond-armor: true #Enable diamond armor recipes
+diamonds-armor: 2 #How many diamonds for armor
