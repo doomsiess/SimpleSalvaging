@@ -1,0 +1,6 @@
+name: SimpleSalvaging
+version: '${project.version}'
+main: me.doom.simplesalvaging.SimpleSalvaging
+api-version: '1.20'
+authors: [Doom]
+description: A lightweight, drag and drop salvaging plugin!
